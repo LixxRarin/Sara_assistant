@@ -1,4 +1,7 @@
-# Sara_assistant
+# Sara Assistant
+
+ATUAL VERSÃO: Alpha 0.0 Remake
+
 Assistente em C# desenvolvida em alguns meses, ainda em alpha e poderá sofrer diversas modificaçõe
 
 Está é a Sara, um pequeno projeto que trabalhei por alguns meses, pretendo continuar atualizando e modificando ela, os tutoriais de como usa-la estão em seus arquivos ".txt"
