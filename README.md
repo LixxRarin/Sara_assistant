@@ -6,7 +6,7 @@ Assistente em C# desenvolvida em alguns meses, ainda em alpha e poderá sofrer d
 
 Está é a Sara, um pequeno projeto que trabalhei por alguns meses, pretendo continuar atualizando e modificando ela, os tutoriais de como usa-la estão em seus arquivos ".txt"
 
-OBS: Este é o repositório de código fechado, não autorizo nenhuma modificação sem minha permissão, para o repositório de código aberto, temos este link: https://github.com/LixxRarin/Sara_Assistant_Open_Source
+OBS: Este é o repositório de código fechado, não autorizo nenhuma modificação sem minha permissão, para versões de código aberto e versões mais antigas, temos este link: https://www.mediafire.com/folder/gx3e5tc0biive/Sara_Assistant
  
  No momento ela não tem uma versão especial para outros sistemas tipo Linux e Mac.
 
